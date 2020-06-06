@@ -4,6 +4,8 @@
     border-right: 1px solid black;
 }
 .product{
+    padding: 5px 0 10px 0;
+    border-bottom: 2px solid gray;
 }
 
 .products{
